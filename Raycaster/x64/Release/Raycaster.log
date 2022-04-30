@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\DeNT\source\repos\Raycaster\Raycaster\Source.cpp(55,9): warning C4101: 'y': 未參考的區域變數
+C:\Users\DeNT\source\repos\Raycaster\Raycaster\Source.cpp(55,6): warning C4101: 'x': 未參考的區域變數
+Source.obj : error LNK2001: 無法解析的外部符號 glutInit
+Source.obj : error LNK2001: 無法解析的外部符號 glutPostRedisplay
+Source.obj : error LNK2001: 無法解析的外部符號 glutKeyboardFunc
+Source.obj : error LNK2001: 無法解析的外部符號 glutCreateWindow
+Source.obj : error LNK2001: 無法解析的外部符號 glutInitDisplayMode
+Source.obj : error LNK2001: 無法解析的外部符號 glutDisplayFunc
+Source.obj : error LNK2001: 無法解析的外部符號 glutMainLoop
+Source.obj : error LNK2001: 無法解析的外部符號 glutInitWindowPosition
+Source.obj : error LNK2001: 無法解析的外部符號 glutInitWindowSize
+Source.obj : error LNK2001: 無法解析的外部符號 glutSwapBuffers
+C:\Users\DeNT\source\repos\Raycaster\x64\Release\Raycaster.exe : fatal error LNK1120: 10 個無法解析的外部符號
